@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mobile Software Engineering Project</string>
+    <string name="all_lists">All Lists</string>
+    <string name="list_4">List 4</string>
+    <string name="list_3">List 3</string>
+    <string name="list_2">List 2</string>
+    <string name="list_1">List 1</string>
+    <string name="item_viewer">Item Viewer</string>
+</resources>
